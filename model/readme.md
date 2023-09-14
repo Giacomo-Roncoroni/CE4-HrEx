@@ -1,1 +1,1 @@
-Model available with pubblic repo!
+Trained model!
