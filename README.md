@@ -1,2 +1,5 @@
 # CE4-HrEx
-Codes for Horizon Extraction of the Chang'E-4 LPR data 
+Codes for: "Deep Learning driven interpretation of Chang’E-4 Lunar Penetrating Radar", Roncoroni G., Forte E., Santin I., Černok A., Rajšić A., Frigeri A., Zhao W., Fang G., Pipan M.
+
+# Abstract
+We reprocessed Chang’E-4 Lunar Penetrating Radar data collected until 27th March 2023 with a total length of about 1,440 m adding more than 400 m to the longest profile published so far. For data interpretation, we exploited a new Deep Learning-based algorithm to automatically extract reflectors from a processed radar dataset. The results are in terms of horizon probability and have been interpreted by integrating signal attribute analysis with orbital imagery. The approach provides more objective results by minimizing the subjectivity of data interpretation, allowing to link radar reflectors to their geological context and surface structures. For the first time, we imaged dipping layers and at least twenty shallow buried craterform structures within the regolith using Lunar Penetrating Radar data. We further recognized four deeper structures similar to craters, and identified a crater rim crossed by the rover path and visible in satellite imagery.
