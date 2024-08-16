@@ -8,10 +8,9 @@ In this study, we reprocessed Chang’E-4 Lunar Penetrating Radar (LPR) data col
 
 ## Repository Structure
 
-- `model_final_NN0_long2_retr_new`: This is the trained deep learning model used for horizon extraction from the LPR data.
-- `notebooks/`: This directory contains Jupyter Notebooks used during the research, including data preprocessing, model training, and interpretation of results.
-- `data/`: Contains the reprocessed LPR data, model input data, and any relevant supplementary data used in the study.
-- `scripts/`: Contains Python scripts used for data handling, model evaluation, and additional analyses.
+- `mode/model_final_NN0_long2_retr_new`: This is the trained deep learning model used for horizon extraction from the LPR data.
+- `02_LPR_horizon_extraction.ipynb`: This Jupyter Notebook sumarized the programs used during the research, including data preprocessing, model training, and interpretation of results.
+- `data`: Contains the reprocessed LPR data, model input data can be found at: Roncoroni, Giacomo (2024). SEG-Y data. figshare. Dataset. https://doi.org/10.6084/m9.figshare.23723922.v1; Roncoroni, Giacomo (2024). PDS-4 file. figshare. Dataset. https://doi.org/10.6084/m9.figshare.23723976.v1.
 
 ## Usage
 ### Running the Model
